@@ -27,7 +27,7 @@ O que foi estudado:
   - Ordenação
   - Agrupamento
   - Junção de tabelas
-  - Função de conversão de dados  
+  - Função de conversão de dados
   
 ---
 
